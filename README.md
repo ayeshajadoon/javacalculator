@@ -3,4 +3,4 @@ java spring calculator
 
 ## screen Shot
 
-![Alt text](https://raw.github.com/ayeshajadoon/javacalculator/master/CAPTURE.PNG)
+![Alt text](https://github.com/ayeshajadoon/javacalculator/blob/master/Capture.PNG)
