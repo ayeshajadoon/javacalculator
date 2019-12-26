@@ -1,6 +1,6 @@
 # javacalculator
 java spring calculator
 
-##screen Shot
+## screen Shot
 
-![Alt text](/CAPTURE.PNG?raw=true "Optional Title")
+![Alt text](https://raw.github.com/ayeshajadoon/javacalculator/master/CAPTURE.PNG)
